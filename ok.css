@@ -1,0 +1,43 @@
+ body {
+ 	margin: 0;
+ }
+
+ .header {
+ 	background-color: black;
+ 	padding: 20px;
+ 	text-align: center;
+ 	color: violet;
+ }
+
+ .topnav {
+
+ 	overflow: hidden;
+ 	background: violet;
+ }
+
+ .topnav a{
+ 	float: left;
+ 	color: yellow;
+ 	display: block;
+ 	text-align: center;
+ 	padding: 20px;
+ 	text-decoration: none;
+
+ }
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 15px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.fol {
+	background-color: black;
+	text-align: center;
+	padding: 15px;
+	color: violet;
+}
