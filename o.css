@@ -1,0 +1,30 @@
+
+body {
+	margin: 2%;
+	background-color: violet;
+}
+
+
+.header {
+	border: 2px solid red;
+	padding: 15px;
+	font-size: 2.10em;
+}
+.menu {
+	border: 2px solid red;
+	float: left;
+	
+	width: 25%;
+}
+a {
+	text-decoration: none;
+}
+
+.main {
+	border: 1px solid red;
+	width: 67%;
+	float: right;
+	padding: 15px;
+	
+
+}
